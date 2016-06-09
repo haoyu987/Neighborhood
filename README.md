@@ -47,3 +47,6 @@ When a user registers in our system, the name, address, password, and a unique e
 ![alt text](https://github.com/haoyu987/Neighborhood/blob/master/img/moving.jpg)
 
 When user changes his address in his profile, the system will check if the user are still in the same block. If user is still in the same block, everything remains unchanged. If the user moves to another block, the messages are kept while the previous posts cannot be accessed any more. Also the user lost all his neighbor relations while keeping the friend relations. So the user can still see the previous friend feeds. But not until he gets the admission to the new block. Because we only give content access to the user who has a block membership. But the user can still send and receive messages.
+
+## Additional
+For other advanced feature and implementation details. See the [report](https://github.com/haoyu987/Neighborhood/blob/master/doc/project.pdf) in doc.
