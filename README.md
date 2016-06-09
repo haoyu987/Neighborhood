@@ -9,6 +9,10 @@ Members can specify two types of relationships with other members. They can frie
 ![alt text](https://github.com/haoyu987/Neighborhood/blob/master/img/schema.jpg)
 
 ## Functionality
+### general user case
+![alt text](https://github.com/haoyu987/Neighborhood/blob/master/img/generalusercase.jpg)
+A user uses his email and password to log in. After that, the user is directed to a page presenting group category of the posts. A user can start a new post after choose a subject from a predefined set of subjects and specify a title and add content in text. Also user can review a post and reply. A user can do some operations on the posts, like search the keywords. Messages are kept in a mailbox. Every time a user logs out, the lastlogtime is updated in the users table.
+
 ### hood and block
 hood
 ![alt text](https://github.com/haoyu987/Neighborhood/blob/master/img/hood.jpg)
