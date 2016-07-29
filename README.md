@@ -1,6 +1,8 @@
 # Neighborhood
 link:52.39.170.67/neighborhood/overview.php
 
+You can use sj321@gmail.com and password 0000 for test.
+
 A Neighborhood Community Website
 
 Users are able to register for the service and specify where they live. In the website, there are two levels of locality, hoods (neighborhoods, such as Bay Ridge or Park Slope) and blocks (a part of a neighborhood but not necessarily one block, e.g., “7th Avenue between 3rd and 6th Street” in Park Slope). Users can apply to join a block; they are accepted as a new member if at least three existing members (or all members if there are less than three) approve. A user can only be member of one block, and is also automatically a member of the neighborhood in which the block is located. For simplicity, we assume that the names and definitions of blocks and neighborhoods are predefined by the company, so that users cannot create new ones; also, blocks and neighborhoods are modeled as (possibly overlapping) axis-aligned rectangles that can be defined by two corner points (say, their southwest and northeast corner).
